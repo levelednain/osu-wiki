@@ -1,22 +1,22 @@
-# Audio editing guide
+# Panduan menyunting audio
 
-[osu!academy](/wiki/Community/Video_series/osu!academy) covered this in [Episode 15: Audio Encoding (4:02)](https://www.youtube.com/watch?v=muu3HkG38kk). That episode also contains how to install and use Audacity with LAME's `.mp3` export ability.
+[osu!academy](/wiki/Community/Video_series/osu!academy) telah menjelaskan hal ini di [Episode 15: Audio Encoding (4:02)](https://www.youtube.com/watch?v=muu3HkG38kk). Episode itu juga berisikan cara memasang dan menggunakan Audacity dengan kemampuan ekspor `.mp3` dari LAME.
 
-This article serves as guide to help you do minor edits to your audio files for beatmapping purposes. By expanding it, you can help fellow beatmappers to create suitable audio files for any need.
+Artikel ini bertujuan sebagai panduan untuk membantu Anda dalam melakukan penyuntingan kecil kepada file-file audio Anda untuk keperluan membuat beatmap. Dengan membantu mengembangkan artikel ini, Anda bisa membantu kreator beatmap yang lain untuk membuat file-file audio yang sesuai untuk kebutuhan apapun.
 
-*By no means is this the software that you can only use, rather this only lists from those who had added them here. If you know of other tools that could be used and can explain how to use them for the described sections below, please add them.*
+*Program yang hanya tercantumkan di artikel ini bukan berarti hanya program yang dapat Anda gunakan, namun itu adalah program-program dari orang yang telah menambahkannya disini. Jika Anda mengetahui program lain yang dapat digunakan dan dapat menjelaskan cara menggunakannya untuk bagian yang dijelaskan di bawah ini, silakan tambahkan.*
 
 ## Audacity
 
-[Audacity](https://www.audacityteam.org/download) is a free, open-source audio editing and recording software. It uses the [LAME](https://lame.sourceforge.io) encoding library to be able to export audio in the MP3 audio format and is built into Audacity on Windows and macOS.
+[Audacity](https://www.audacityteam.org/download) adalah program perekam dan penyunting audio gratis berbasis open-source. Program ini menggunakan pustaka encoding [LAME](https://lame.sourceforge.io) untuk dapat mengekspor audio ke format MP3 dan sudah termasuk dalam Audacity di Windows dan macOS.
 
-Linux users should refer to the [Audacity Reference Manual](https://manual.audacityteam.org/man/installing_and_updating_audacity_on_linux.html#linlame) for more information, as certain Linux distributions may not provide LAME when installing Audacity, but most do provide it.
+Untuk pengguna Linux, dimohon membaca [Audacity Reference Manual](https://manual.audacityteam.org/man/installing_and_updating_audacity_on_linux.html#linlame) untuk informasi tambahan, karena sebagian distribusi Linux mungkin tidak menyediakan LAME ketika memasang Audacity.
 
-### Lowering Bit Rate
+### Menurunkan Bit Rate
 
-*For information on compression in general, see: [Compressing files](/wiki/Guides/Compressing_files)*
+*Untuk informasi dasar tentang kompresi file, lihat: [Compressing files](/wiki/Guides/Compressing_files)*
 
-Install and open Audacity, then follow these steps:
+Pasang dan buka Audacity, lalu ikuti langkah-langkah berikut:
 
 1. Open the `.mp3` file that you want to lower the bit rate on.
 2. Press `Ctrl` + `Shift` + `E`, then in `Save as type:` select `MP3 Files`, or:
