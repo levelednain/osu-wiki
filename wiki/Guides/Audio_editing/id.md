@@ -57,26 +57,26 @@ Pasang dan buka Audacity, lalu ikuti langkah-langkah berikut:
 11. Klik `Save` dan sebuah dialog akan muncul untuk memasukkan metadata.
 12. Klik `OK` jika sudah selesai memasukkan metadata.
 
-### Cropping
+### Memotong
 
-Install and open Audacity, then follow these steps:
+Pasang dan buka Audacity, lalu ikuti langkah-langkah berikut:
 
-1. Open the `.mp3` file that you want to crop.
-2. Click and drag to highlight the parts you want to crop.
-   - This should be the long outro that you don't want to map.
-3. Press `Delete`.
-4. Click and drag the last 3 to 5 seconds towards the end.
-5. Click `Effect`.
-6. Click `Fade Out`.
-7. Press `Ctrl` + `Shift` + `E`, then in `Save as type:` select `MP3 Files`, or:
-   1. Click `File`, then `Export`, then `Export as MP3`.
-8. In the `Format Options`, change the following settings:
+1. Buka file `.mp3` yang Anda ingin potong.
+2. Klik dan seret untuk menandai bagian yang Anda inginkan untuk diulang.
+   - Ini seharusnya bagian outro panjang yang Anda tidak ingin untuk di map.
+3. Tekan `Delete`.
+4. Klik dan seret bagian 3 sampai 5 detik yang menuju bagian akhir.
+5. Klik `Effect`
+6. Klik `Fade Out`
+7. Tekan `Ctrl` + `Shift` + `E`, lalu di bagian `Save as type:` pilih `MP3 Files`, atau:
+   1. Klik `File`, lalu `Export`, dan `Export as MP3`.
+8. Pada bagian `Format Options`, ganti pengaturannya mengikuti pengaturan ini:
    1. `Bit Rate Mode`: `Preset`
    2. `Quality`: `Medium, 145-185 kbps`
-9. Navigate to the location you want to save the file as.
-   - You could rename the file too.
-10. Click `Save` and a dialog will appear to enter metadata.
-11. Click `OK` once done entering metadata.
+9. Tentukan lokasi yang Anda inginkan untuk menyimpan filenya.
+   - Anda juga bisa mengganti nama filenya.
+10. Klik `Save` dan sebuah dialog akan muncul untuk memasukkan metadata.
+11. Klik `OK` jika sudah selesai memasukkan metadata.
 
 ## mp3DirectCut
 
